@@ -1,0 +1,11 @@
+El proyecto anxiety trata de reflejar de forma sonora el proceso mental que se da al sufrir una crisis de ansiedad.
+El propósito de este mundo sonoro es agobiar y saturar al oyente, sobre todo a través de acciones humanas exageradas 
+(respiraciones, latidos del corazón,etc), sumada a una ensordecedora alarma, que es como se siente el cuerpo: 
+en alerta por supuesto peligro
+
+Cuanto más tiempo se escuche este proyecto, mayor será el efecto de saturación, llegando al punto de producir dolores de cabeza 
+(incluso migrañas en mi caso) y zumbidos en el oído (se incluye el audio 'beeping' para reforzar esta sensación), permitiendo 
+experimentar algunos de los sintomas que se pueden sufrir durante una crisis.
+
+El objetivo de este mundo sonoro es crear una experiencia en la que se pueda empatizar con personas que sufren de estas crisis, sin tener
+que llegar a una pero pudiendo experimentar momentáneamente como se siente estar en una. 
